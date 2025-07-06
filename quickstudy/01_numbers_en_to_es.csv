@@ -1,0 +1,61 @@
+0;cero
+1;uno
+2;dos
+3;tres
+4;cuatro
+5;cinco
+6;seis
+7;siete
+8;ocho
+9;nueve
+10;diez
+11;once
+12;doce
+13;trece
+14;catorce
+15;quince
+16;dieciséis
+17;diecisiete
+18;dieciocho
+19;diecinueve
+20;veinte
+21;veintiuno
+22;veintidós
+23;veintitrés
+30;treinta
+31;treinta y uno
+32;treinta y dos
+33;treinta y tres
+40;cuarenta
+41;cuarenta y uno
+42;cuarenta y dos
+43;cuarenta y tres
+50;cincuenta
+60;sesenta
+70;setenta
+71;setenta y uno
+80;ochenta
+90;noventa
+91;noventa y uno
+100;cien (to)
+200;doscientos
+201;doscientos uno
+1000;mil
+million;millón
+billion;billón, mil millones
+1st;el/la primero/a
+2nd;el/la segundo/a
+3rd;el/la tercero/a
+4th;el/la cuarto/a
+5th;el/la quinto/a
+6th;el/la sexto/a
+7th;el/la séptimo/a
+8th;el/la octavo/a
+9th;el/la noveno/a
+10th;el/la décimo/a
+centimeter;el centímetro
+meter;el metro
+kilometer;el kilómetro
+liter;el litro
+gram;el gramo
+kilogram;el kilo(gramo)
